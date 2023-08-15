@@ -20,9 +20,3 @@ spec:
       retries: 3
   # Default values
   # https://github.com/weaveworks/kured/blob/main/charts/kured/values.yaml
-  values:
-    tolerations:
-    - key: CriticalAddonsOnly
-      operator: Exists
-#    image:
-#      repository: ${ACR_NAME}.azurecr.io/weaveworks/kured
