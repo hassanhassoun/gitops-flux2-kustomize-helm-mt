@@ -4,4 +4,4 @@ metadata:
   name: kured
 spec:
   interval: 5m
-  url: https://weaveworks.github.io/kured
+  url: https://kubereboot.github.io/charts/
